@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sallyportfolio/static/css/main.05d997ff.css",
-    "main.js": "/sallyportfolio/static/js/main.0b7e20e8.js",
+    "main.js": "/sallyportfolio/static/js/main.6b13bec2.js",
     "static/js/453.092c620f.chunk.js": "/sallyportfolio/static/js/453.092c620f.chunk.js",
     "static/media/EclipseSoundscapesWireframes.png": "/sallyportfolio/static/media/EclipseSoundscapesWireframes.403a09d24aef911ee320.png",
     "static/media/StellaSweater.png": "/sallyportfolio/static/media/StellaSweater.f81f7e243b9c0c335ddf.png",
@@ -179,11 +179,11 @@
     "index.html": "/sallyportfolio/index.html",
     "static/media/hamburger-menu.svg": "/sallyportfolio/static/media/hamburger-menu.72d83044daed3c44e61291982bc9cc0c.svg",
     "main.05d997ff.css.map": "/sallyportfolio/static/css/main.05d997ff.css.map",
-    "main.0b7e20e8.js.map": "/sallyportfolio/static/js/main.0b7e20e8.js.map",
+    "main.6b13bec2.js.map": "/sallyportfolio/static/js/main.6b13bec2.js.map",
     "453.092c620f.chunk.js.map": "/sallyportfolio/static/js/453.092c620f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.05d997ff.css",
-    "static/js/main.0b7e20e8.js"
+    "static/js/main.6b13bec2.js"
   ]
 }
